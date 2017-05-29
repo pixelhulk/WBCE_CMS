@@ -1,0 +1,1 @@
+Die eingegebene Bildgröße wird zwar zunächst in den Tab „Erweitert“ als Inline-CSS-Stil übernommen, geht jedoch beim Speichern ODER beim Umschalten in die Quellcode-Ansicht des Editors verloren. Offenbar entfernt der CKEditor das „style“-Attribut aus dem img-Element.
